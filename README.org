@@ -27,7 +27,7 @@
 ** About
 
 - This is a group project for the COP4600, Spring 2026 Operating Systems class.
-  - Group Members: <TODO>
+  - Group Members: Brianna, Yui, Joseph, Ryan, Michael (last names omitted for privacy).
   - This program is written in Rust with the help of an LLM, as per assignment instructions, and implements a concurrent hash table using reader-writer locks and condition variables.
 
 ** Organization
@@ -63,7 +63,7 @@
 *** Clone repository
 
 #+begin_src bash
-git clone <REPO-URL>
+git clone https://github.com/lispcat/PA2-concurrent-hash-table.git
 cd project2-hash-table
 #+end_src
 
