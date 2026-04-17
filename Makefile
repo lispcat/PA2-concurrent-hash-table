@@ -27,8 +27,7 @@ test:
 	cargo test
 
 test-v:
-	FULL_DIFF=1
-	cargo test
+	FULL_DIFF=1 cargo test
 
 clean:
 	cargo clean

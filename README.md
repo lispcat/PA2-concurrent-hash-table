@@ -62,7 +62,7 @@ The codebase is organized with modularity and test-driven development in mind. S
 
 ```sh
 git clone https://github.com/lispcat/PA2-concurrent-hash-table.git
-cd project2-hash-table
+cd PA2-concurrent-hash-table
 ```
 
 ### Compile
